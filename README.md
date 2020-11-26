@@ -1,6 +1,7 @@
 # FrontendTask2
 Objašnjenje zadatka
 
+
 Postavka zadatka:
 
 Zadatak sam uradio koristeći HTML5, CSS3 i Javascript web tehnologije. Kao što ste i zadali u prethodnom e-mailu, čitava postavka animacija za ovaj zadatak je postavljena uz pomoć CSS-a tj. koristeći keyframes at-rule i animation svojstvo. Nadalje, javascript je korišten samo kako bi se dodala funkcionalnost uz pomoć event listener metoda, tako da bi se smjer rotacije kružnice mogao mijenjati na klik.
